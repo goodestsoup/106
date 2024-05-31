@@ -1,0 +1,19 @@
+body {
+    font-family: special-elite;
+}
+#header_div{
+    background-color: dimgray;
+    color: aliceblue;
+}
+#main_div{
+    background-color: gainsboro;
+    height: 660px;
+}
+button{
+    width: 100px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+#credits{
+    margin-top: 25px;
+}
